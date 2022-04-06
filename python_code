@@ -1,0 +1,3 @@
+classmates = ["jack", "charles","vivian"]
+
+print(classmates=people)
