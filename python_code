@@ -1,3 +1,5 @@
-classmates = ["jack", "charles","vivian"]
+classmates = ["jack", "charles","vivian" "gerald"]
 
 print(classmates=people)
+
+my_name= "gerald kilimo"
